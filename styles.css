@@ -1,4 +1,16 @@
 body{
   color: white;
-  background-color: green;
+  background-color: black;
+  font-style: italic;
+  font-size: xx-large;
+  text-align: center;
+  text-decoration-line: none;
+  background-image: url('images/skates/1.jpg');
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, rgb(98, 98, 98) 100%);
+  background-size: cover;
+}
+
+div{
+  border-color: white;
+  border: 2px solid;
 }
